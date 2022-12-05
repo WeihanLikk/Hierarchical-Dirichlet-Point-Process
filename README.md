@@ -1,4 +1,9 @@
-## Requirements
+## Online Neural Sequence Detection with Hierarchical Dirichlet Point Process
+
+This code implements the hierarchical dirichlet point process model for neural sequences detection.
+
+> <br>[Online Neural Sequence Detection with Hierarchical Dirichlet Point Process](https://openreview.net/forum?id=L0OKHqYe_FU).
+> <br> *Neural Information Processing Systems 2022*, New Orleans, US.
 
 To install requirements:
 
